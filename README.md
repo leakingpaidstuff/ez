@@ -1,2 +1,0 @@
-# ez
-follow bot
